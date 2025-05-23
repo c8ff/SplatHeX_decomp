@@ -1,0 +1,53 @@
+namespace SplatHex;
+internal static class Class32 {
+    public static int eVi;
+    public static int zVm;
+    public static int NV0;
+    public static int kVI;
+    public static int YVR;
+    public static int nVC;
+    public static int fVK;
+    public static int jVU;
+    public static int YVT;
+    public static int OV1;
+    public static int MVW;
+    public static int xVw;
+    public static int LVN;
+    public static int QVY;
+    public static int uVB;
+    public static int TVA;
+    public static int SVf;
+    public static int jV6;
+    public static int vVx;
+    public static int IV9;
+    public static int AVc;
+    public static int cVy;
+    public static int KVr;
+    public static int gVq;
+    static Class32() {
+        eVi = 53888;
+        zVm = 8;
+        NV0 = 16;
+        kVI = eVi - NV0;
+        YVR = 416;
+        nVC = YVR + 12288;
+        fVK = YVR + 24576;
+        jVU = YVR + 36864;
+        YVT = 52292;
+        OV1 = YVT + 84;
+        MVW = YVT + 168;
+        xVw = 46100;
+        LVN = 45312;
+        QVY = 42680;
+        uVB = 48;
+        TVA = 40;
+        SVf = (nVC - YVR) / uVB;
+        jV6 = 128;
+        vVx = 236;
+        IV9 = 25;
+        AVc = 64;
+        cVy = 3;
+        KVr = 12;
+        gVq = 64;
+    }
+}

@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="InkRecovery_Up" xml:space="preserve"><value>Ink Recovery Up</value></data>
+  <data name="Fusya00" xml:space="preserve"><value>Pinwheel Power Plant</value></data>
+  <data name="Charge_Light_01" xml:space="preserve"><value>Bamboozler 14 Mk II</value></data>
+  <data name="Charge_Light_00" xml:space="preserve"><value>Bamboozler 14 Mk I</value></data>
+  <data name="Charge_Light_02" xml:space="preserve"><value>Bamboozler 14 Mk III</value></data>
+  <data name="BigBall_Strong_01" xml:space="preserve"><value>Slosher Deco</value></data>
+  <data name="BigBall_Strong_00" xml:space="preserve"><value>Slosher</value></data>
+  <data name="BigBall_Strong_02" xml:space="preserve"><value>Soda Slosher</value></data>
+  <data name="Propeller00" xml:space="preserve"><value>Propeller-Lift Playground</value></data>
+  <data name="Propeller01" xml:space="preserve"><value>Propeller-Lift Fortress</value></data>
+  <data name="EYE010" xml:space="preserve"><value>Octoglasses</value></data>
+  <data name="EYE008" xml:space="preserve"><value>18K Aviators</value></data>
+  <data name="EYE009" xml:space="preserve"><value>Full Moon Glasses</value></data>
+  <data name="EYE004" xml:space="preserve"><value>Black Arrowbands</value></data>
+  <data name="EYE005" xml:space="preserve"><value>Snorkel Mask</value></data>
+  <data name="EYE006" xml:space="preserve"><value>White Arrowbands</value></data>
+  <data name="EYE007" xml:space="preserve"><value>Fake Contacts</value></data>
+  <data name="EYE000" xml:space="preserve"><value>Retro Specs</value></data>
+  <data name="EYE001" xml:space="preserve"><value>Splash Goggles</value></data>
+  <data name="EYE002" xml:space="preserve"><value>Pilot Goggles</value></data>
+  <data name="EYE003" xml:space="preserve"><value>Tinted Shades</value></data>
+  <data name="Charge_NormalScope_02" xml:space="preserve"><value>Bento Splatterscope</value></data>
+  <data name="Charge_NormalScope_00" xml:space="preserve"><value>Splatterscope</value></data>
+  <data name="Charge_NormalScope_01" xml:space="preserve"><value>Kelp Splatterscope</value></data>
+  <data name="RvlRuins00" xml:space="preserve"><value>Octoling Uprising</value></data>
+  <data name="Defense_Up" xml:space="preserve"><value>Defense Up</value></data>
+  <data name="DeathMarking" xml:space="preserve"><value>Haunt</value></data>
+  <data name="AMB002" xml:space="preserve"><value>Power Armor</value></data>
+  <data name="AMB001" xml:space="preserve"><value>Samurai Jacket</value></data>
+  <data name="AMB000" xml:space="preserve"><value>School Uniform</value></data>
+  <data name="First2" xml:space="preserve"><value>Cream Basics</value></data>
+  <data name="First1" xml:space="preserve"><value>White Headband</value></data>
+  <data name="Roller_Compact_00" xml:space="preserve"><value>Carbon Roller</value></data>
+  <data name="Roller_Compact_01" xml:space="preserve"><value>Carbon Roller Deco</value></data>
+  <data name="Roller_Normal_H" xml:space="preserve"><value>Hero Roller Replica</value></data>
+  <data name="Shot_ExplosionLightLong_00" xml:space="preserve"><value>Rapid Blaster Pro</value></data>
+  <data name="Shot_ExplosionLightLong_01" xml:space="preserve"><value>Rapid Blaster Pro Deco</value></data>
+  <data name="Maze00" xml:space="preserve"><value>Kelp Dome</value></data>
+  <data name="BOT011" xml:space="preserve"><value>Icy Down Boots</value></data>
+  <data name="BOT010" xml:space="preserve"><value>Snowy Down Boots</value></data>
+  <data name="BOT008" xml:space="preserve"><value>Punk Yellows</value></data>
+  <data name="BOT009" xml:space="preserve"><value>Bubble Rain Boots</value></data>
+  <data name="BOT004" xml:space="preserve"><value>Green Rain Boots</value></data>
+  <data name="BOT005" xml:space="preserve"><value>Acerola Rain Boots</value></data>
+  <data name="BOT006" xml:space="preserve"><value>Punk Whites</value></data>
+  <data name="BOT007" xml:space="preserve"><value>Punk Cherries</value></data>
+  <data name="BOT000" xml:space="preserve"><value>Moto Boots</value></data>
+  <data name="BOT001" xml:space="preserve"><value>Tan Work Boots</value></data>
+  <data name="BOT002" xml:space="preserve"><value>Red Work Boots</value></data>
+  <data name="BOT003" xml:space="preserve"><value>Blue Moto Boots</value></data>
+  <data name="Shot_Long_01" xml:space="preserve"><value>Custom Jet Squelcher</value></data>
+  <data name="Shot_Long_00" xml:space="preserve"><value>Jet Squelcher</value></data>
+  <data name="MainInk_Save" xml:space="preserve"><value>Ink Saver (Main)</value></data>
+  <data name="OctSkatePark00" xml:space="preserve"><value>Unavoidable Flying Object</value></data>
+  <data name="Roller_Normal_00" xml:space="preserve"><value>Splat Roller</value></data>
+  <data name="Roller_Normal_01" xml:space="preserve"><value>Krak-On Splat Roller</value></data>
+  <data name="Roller_Normal_02" xml:space="preserve"><value>CoroCoro Splat Roller</value></data>
+  <data name="MET009" xml:space="preserve"><value>ヘルメット009</value></data>
+  <data name="MET008" xml:space="preserve"><value>ヘルメット008</value></data>
+  <data name="MET001" xml:space="preserve"><value>ヘルメット001</value></data>
+  <data name="MET000" xml:space="preserve"><value>Bike Helmet</value></data>
+  <data name="MET003" xml:space="preserve"><value>Tentacles Helmet</value></data>
+  <data name="MET002" xml:space="preserve"><value>Stealth Goggles</value></data>
+  <data name="MET005" xml:space="preserve"><value>Visor Skate Helmet</value></data>
+  <data name="MET004" xml:space="preserve"><value>Skate Helmet</value></data>
+  <data name="MET007" xml:space="preserve"><value>ヘルメット007</value></data>
+  <data name="MET006" xml:space="preserve"><value>ヘルメット006</value></data>
+  <data name="MET010" xml:space="preserve"><value>ヘルメット010</value></data>
+  <data name="MET011" xml:space="preserve"><value>ヘルメット011</value></data>
+  <data name="Shot_Normal_Oct" xml:space="preserve"><value>Octoshot Replica</value></data>
+  <data name="MSK000" xml:space="preserve"><value>Gas Mask</value></data>
+  <data name="MSK001" xml:space="preserve"><value>Paintball Mask</value></data>
+  <data name="MSK002" xml:space="preserve"><value>Paisley Bandana</value></data>
+  <data name="MSK003" xml:space="preserve"><value>Skull Bandana</value></data>
+  <data name="MSN004" xml:space="preserve"><value>Armor Jacket Replica</value></data>
+  <data name="MSN000" xml:space="preserve"><value>Hero Jacket Replica</value></data>
+  <data name="UpDown00" xml:space="preserve"><value>Arowana Mall</value></data>
+  <data name="StartAllUp" xml:space="preserve"><value>Opening Gambit</value></data>
+  <data name="SquidMove_Up" xml:space="preserve"><value>Swim Speed Up</value></data>
+  <data name="CFS003" xml:space="preserve"><value>コンフォートシューズ003</value></data>
+  <data name="CFS001" xml:space="preserve"><value>Plum Casuals</value></data>
+  <data name="CFS000" xml:space="preserve"><value>Blueberry Casuals</value></data>
+  <data name="CAP007" xml:space="preserve"><value>Five-Panel Cap</value></data>
+  <data name="CAP006" xml:space="preserve"><value>Camo Mesh</value></data>
+  <data name="CAP005" xml:space="preserve"><value>Squidvader Cap</value></data>
+  <data name="CAP004" xml:space="preserve"><value>Squid-Stitch Cap</value></data>
+  <data name="CAP003" xml:space="preserve"><value>Streetstyle Cap</value></data>
+  <data name="CAP002" xml:space="preserve"><value>Takoroka Mesh</value></data>
+  <data name="CAP001" xml:space="preserve"><value>Lightweight Cap</value></data>
+  <data name="CAP000" xml:space="preserve"><value>Urchins Cap</value></data>
+  <data name="CAP009" xml:space="preserve"><value>Backwards Cap</value></data>
+  <data name="CAP008" xml:space="preserve"><value>Zekko Mesh</value></data>
+  <data name="CAP016" xml:space="preserve"><value>CoroCoro Cap</value></data>
+  <data name="CAP014" xml:space="preserve"><value>Cycle King Cap</value></data>
+  <data name="CAP015" xml:space="preserve"><value>Legendary Cap</value></data>
+  <data name="CAP012" xml:space="preserve"><value>Cycling Cap</value></data>
+  <data name="CAP013" xml:space="preserve"><value>SQUID GIRL Hat</value></data>
+  <data name="CAP010" xml:space="preserve"><value>Two-Stripe Mesh</value></data>
+  <data name="CAP011" xml:space="preserve"><value>Jet Cap</value></data>
+  <data name="Shot_Expert_02" xml:space="preserve"><value>Berry Splattershot Pro</value></data>
+  <data name="Shot_Expert_01" xml:space="preserve"><value>Forge Splattershot Pro</value></data>
+  <data name="Shot_Expert_00" xml:space="preserve"><value>Splattershot Pro</value></data>
+  <data name="NCP000" xml:space="preserve"><value>Bobble Hat</value></data>
+  <data name="NCP001" xml:space="preserve"><value>Short Beanie</value></data>
+  <data name="NCP002" xml:space="preserve"><value>Striped Beanie</value></data>
+  <data name="NCP003" xml:space="preserve"><value>Sporty Bobble Hat</value></data>
+  <data name="NCP004" xml:space="preserve"><value>Special Forces Beret</value></data>
+  <data name="NCP005" xml:space="preserve"><value>Squid Nordic</value></data>
+  <data name="TrapDetect" xml:space="preserve"><value>Bomb Sniffer</value></data>
+  <data name="Shot_ExplosionMiddle_01" xml:space="preserve"><value>Custom Blaster</value></data>
+  <data name="Shot_ExplosionMiddle_00" xml:space="preserve"><value>Blaster</value></data>
+  <data name="Shot_Gravity_01" xml:space="preserve"><value>.52 Gal Deco</value></data>
+  <data name="Shot_Gravity_00" xml:space="preserve"><value>.52 Gal</value></data>
+  <data name="LTS004" xml:space="preserve"><value>Roasted Brogues</value></data>
+  <data name="LTS002" xml:space="preserve"><value>Turquoise Kicks</value></data>
+  <data name="LTS003" xml:space="preserve"><value>Squink Wingtips</value></data>
+  <data name="LTS000" xml:space="preserve"><value>White Kicks</value></data>
+  <data name="LTS001" xml:space="preserve"><value>Cherry Kicks</value></data>
+  <data name="JKT011" xml:space="preserve"><value>Forge Octarian Jacket</value></data>
+  <data name="JKT010" xml:space="preserve"><value>Forge Inkling Parka</value></data>
+  <data name="JKT013" xml:space="preserve"><value>White Sailor Suit</value></data>
+  <data name="JKT012" xml:space="preserve"><value>Blue Sailor Suit</value></data>
+  <data name="JKT015" xml:space="preserve"><value>Zapfish Satin Jacket</value></data>
+  <data name="JKT014" xml:space="preserve"><value>Squid Satin Jacket</value></data>
+  <data name="JKT016" xml:space="preserve"><value>Krak-On 528</value></data>
+  <data name="JKT000" xml:space="preserve"><value>Olive Ski Jacket</value></data>
+  <data name="JKT001" xml:space="preserve"><value>o</value></data>
+  <data name="JKT002" xml:space="preserve"><value>Berry Ski Jacket</value></data>
+  <data name="JKT003" xml:space="preserve"><value>Varsity Jacket</value></data>
+  <data name="JKT004" xml:space="preserve"><value>School Jersey</value></data>
+  <data name="JKT005" xml:space="preserve"><value>Green Cardigan</value></data>
+  <data name="JKT006" xml:space="preserve"><value>Black Inky Rider</value></data>
+  <data name="JKT007" xml:space="preserve"><value>White Inky Rider</value></data>
+  <data name="JKT008" xml:space="preserve"><value>Retro Gamer Jersey</value></data>
+  <data name="JKT009" xml:space="preserve"><value>Orange Cardigan</value></data>
+  <data name="TurnLift00" xml:space="preserve"><value>Tumbling Splatforms</value></data>
+  <data name="HDP001" xml:space="preserve"><value>Designer Headphones</value></data>
+  <data name="HDP000" xml:space="preserve"><value>Studio Headphones</value></data>
+  <data name="HDP002" xml:space="preserve"><value>Noise Cancelers</value></data>
+  <data name="HAT000" xml:space="preserve"><value>Safari Hat</value></data>
+  <data name="HAT001" xml:space="preserve"><value>Jungle Hat</value></data>
+  <data name="HAT002" xml:space="preserve"><value>Camping Hat</value></data>
+  <data name="HAT003" xml:space="preserve"><value>Blowfish Bell Hat</value></data>
+  <data name="HAT004" xml:space="preserve"><value>Bamboo Hat</value></data>
+  <data name="HAT005" xml:space="preserve"><value>Straw Boater</value></data>
+  <data name="HAT006" xml:space="preserve"><value>Classic Straw Boater</value></data>
+  <data name="HAT007" xml:space="preserve"><value>Treasure Hunter</value></data>
+  <data name="HAP000" xml:space="preserve"><value>Splatfest Tee</value></data>
+  <data name="HAP001" xml:space="preserve"><value>フェスTAチーム</value></data>
+  <data name="HAP002" xml:space="preserve"><value>フェスTBチーム</value></data>
+  <data name="HBD003" xml:space="preserve"><value>Tennis Headband</value></data>
+  <data name="HBD002" xml:space="preserve"><value>Squash Headband</value></data>
+  <data name="HBD001" xml:space="preserve"><value>B-ball Headband</value></data>
+  <data name="HBD000" xml:space="preserve"><value>Warrior Headdress</value></data>
+  <data name="HBD006" xml:space="preserve"><value>Traditional Headband</value></data>
+  <data name="HBD005" xml:space="preserve"><value>Soccer Headband</value></data>
+  <data name="HBD004" xml:space="preserve"><value>Jogging Headband</value></data>
+  <data name="Hidden" xml:space="preserve"><value>Hidden Gear</value></data>
+  <data name="VST004" xml:space="preserve"><value>Squid-Pattern Waistcoat</value></data>
+  <data name="VST005" xml:space="preserve"><value>Squidstar Waistcoat</value></data>
+  <data name="VST000" xml:space="preserve"><value>Mountain Vest</value></data>
+  <data name="VST001" xml:space="preserve"><value>Forest Vest</value></data>
+  <data name="VST002" xml:space="preserve"><value>Dark Urban Vest</value></data>
+  <data name="VST003" xml:space="preserve"><value>Yellow Urban Vest</value></data>
+  <data name="SeaPlant00" xml:space="preserve"><value>Saltspray Rig</value></data>
+  <data name="Hiagari00" xml:space="preserve"><value>Mahi-Mahi Resort</value></data>
+  <data name="VIS001" xml:space="preserve"><value>FishFry Visor</value></data>
+  <data name="VIS000" xml:space="preserve"><value>Golf Visor</value></data>
+  <data name="VIS002" xml:space="preserve"><value>Sun Visor</value></data>
+  <data name="NoBrand" xml:space="preserve"><value /></data>
+  <data name="NoShoes" xml:space="preserve"><value>ありのまま</value></data>
+  <data name="RvlMaze00" xml:space="preserve"><value>Octoling Invasion</value></data>
+  <data name="TRS000" xml:space="preserve"><value>Trail Boots</value></data>
+  <data name="TRS001" xml:space="preserve"><value>Custom Trail Boots</value></data>
+  <data name="TRS002" xml:space="preserve"><value>Pro Trail Boots</value></data>
+  <data name="TRS003" xml:space="preserve"><value>トレッキングシューズ003</value></data>
+  <data name="TES025" xml:space="preserve"><value>Black Pipe Tee</value></data>
+  <data name="TES024" xml:space="preserve"><value>White Line Tee</value></data>
+  <data name="TES027" xml:space="preserve"><value>Pearl Tee</value></data>
+  <data name="TES026" xml:space="preserve"><value>Carnivore Tee</value></data>
+  <data name="TES021" xml:space="preserve"><value>Black 8-Bit FishFry</value></data>
+  <data name="TES020" xml:space="preserve"><value>White 8-Bit FishFry</value></data>
+  <data name="TES023" xml:space="preserve"><value>Black Anchor Tee</value></data>
+  <data name="TES022" xml:space="preserve"><value>White Anchor Tee</value></data>
+  <data name="TES029" xml:space="preserve"><value>Herbivore Tee</value></data>
+  <data name="TES028" xml:space="preserve"><value>Octo Tee</value></data>
+  <data name="TES030" xml:space="preserve"><value>半袖Ｔシャツ030</value></data>
+  <data name="TES007" xml:space="preserve"><value>Sunny-Day Tee</value></data>
+  <data name="TES006" xml:space="preserve"><value>Black Tee</value></data>
+  <data name="TES005" xml:space="preserve"><value>Rockenberg Black</value></data>
+  <data name="TES004" xml:space="preserve"><value>Rockenberg White</value></data>
+  <data name="TES003" xml:space="preserve"><value>Sky-Blue Squideye</value></data>
+  <data name="TES002" xml:space="preserve"><value>SquidForce White</value></data>
+  <data name="TES001" xml:space="preserve"><value>Black Squideye</value></data>
+  <data name="TES000" xml:space="preserve"><value>White Tee</value></data>
+  <data name="TES009" xml:space="preserve"><value>Reggae Tee</value></data>
+  <data name="TES008" xml:space="preserve"><value>Rainy-Day Tee</value></data>
+  <data name="TES016" xml:space="preserve"><value>Ivory Peaks Tee</value></data>
+  <data name="TES017" xml:space="preserve"><value>Squid-Stitch Tee</value></data>
+  <data name="TES014" xml:space="preserve"><value>Gray Vector Tee</value></data>
+  <data name="TES015" xml:space="preserve"><value>Blue Peaks Tee</value></data>
+  <data name="TES012" xml:space="preserve"><value>Grape Tee</value></data>
+  <data name="TES013" xml:space="preserve"><value>Red Vector Tee</value></data>
+  <data name="TES010" xml:space="preserve"><value>Fugu Tee</value></data>
+  <data name="TES011" xml:space="preserve"><value>Mint Tee</value></data>
+  <data name="TES018" xml:space="preserve"><value>Pirate-Stripe Tee</value></data>
+  <data name="TES019" xml:space="preserve"><value>Sailor-Stripe Tee</value></data>
+  <data name="TEL011" xml:space="preserve"><value>Zink LS</value></data>
+  <data name="TEL010" xml:space="preserve"><value>Squidmark LS</value></data>
+  <data name="TEL013" xml:space="preserve"><value>長袖Ｔシャツ013</value></data>
+  <data name="TEL012" xml:space="preserve"><value>Striped Peaks LS</value></data>
+  <data name="TEL008" xml:space="preserve"><value>White LS</value></data>
+  <data name="TEL009" xml:space="preserve"><value>Green Striped LS</value></data>
+  <data name="TEL000" xml:space="preserve"><value>White Striped LS</value></data>
+  <data name="TEL001" xml:space="preserve"><value>Black LS</value></data>
+  <data name="TEL002" xml:space="preserve"><value>Purple Camo LS</value></data>
+  <data name="TEL003" xml:space="preserve"><value>Navy Striped LS</value></data>
+  <data name="TEL004" xml:space="preserve"><value>Zekko Baseball LS</value></data>
+  <data name="TEL005" xml:space="preserve"><value>Varsity Baseball LS</value></data>
+  <data name="TEL006" xml:space="preserve"><value>Black Baseball LS</value></data>
+  <data name="TEL007" xml:space="preserve"><value>White Baseball LS</value></data>
+  <data name="TLY004" xml:space="preserve"><value>Zink Layered LS</value></data>
+  <data name="TLY005" xml:space="preserve"><value>Layered Anchor LS</value></data>
+  <data name="TLY006" xml:space="preserve"><value>Choco Layered LS</value></data>
+  <data name="TLY007" xml:space="preserve"><value>Part-Time Pirate</value></data>
+  <data name="TLY000" xml:space="preserve"><value>White Layered LS</value></data>
+  <data name="TLY001" xml:space="preserve"><value>Yellow Layered LS</value></data>
+  <data name="TLY002" xml:space="preserve"><value>Camo Layered LS</value></data>
+  <data name="TLY003" xml:space="preserve"><value>Black Layered LS</value></data>
+  <data name="TLY008" xml:space="preserve"><value>Layered Vector LS</value></data>
+  <data name="TLY009" xml:space="preserve"><value>Green Tee</value></data>
+  <data name="TLY011" xml:space="preserve"><value>重ね着Ｔシャツ011</value></data>
+  <data name="TLY010" xml:space="preserve"><value>重ね着Ｔシャツ010</value></data>
+  <data name="TNK000" xml:space="preserve"><value>B-ball Jersey (Home)</value></data>
+  <data name="TNK001" xml:space="preserve"><value>B-ball Jersey (Away)</value></data>
+  <data name="TNK002" xml:space="preserve"><value>SQUID GIRL Tunic</value></data>
+  <data name="Shot_Normal_02" xml:space="preserve"><value>Wasabi Splattershot</value></data>
+  <data name="Shot_Normal_00" xml:space="preserve"><value>Splattershot</value></data>
+  <data name="Shot_Normal_01" xml:space="preserve"><value>Tentatek Splattershot</value></data>
+  <data name="RVL001" xml:space="preserve"><value>ヘルメットライバル用強</value></data>
+  <data name="RVL000" xml:space="preserve"><value>Octoling Armor</value></data>
+  <data name="Athletic00" xml:space="preserve"><value>Camp Triggerfish</value></data>
+  <data name="SpecialIncrease_Up" xml:space="preserve"><value>Special Charge Up</value></data>
+  <data name="MSN0041" xml:space="preserve"><value>Armor Helmet Replica</value></data>
+  <data name="MSN0042" xml:space="preserve"><value>Armor Boot Replicas</value></data>
+  <data name="MSN0001" xml:space="preserve"><value>Hero Headset Replica</value></data>
+  <data name="MSN0002" xml:space="preserve"><value>Hero Runner Replicas</value></data>
+  <data name="DevilBall" xml:space="preserve"><value>Disruptor</value></data>
+  <data name="PRK000" xml:space="preserve"><value>Camo Zip Hoodie</value></data>
+  <data name="PRK001" xml:space="preserve"><value>Green Zip Hoodie</value></data>
+  <data name="PRK002" xml:space="preserve"><value>Zekko Hoodie</value></data>
+  <data name="PRK003" xml:space="preserve"><value>CoroCoro Hoodie</value></data>
+  <data name="Jyoheki00" xml:space="preserve"><value>Flounder Heights</value></data>
+  <data name="Shot_Precision_01" xml:space="preserve"><value>Neo Splash-o-matic</value></data>
+  <data name="Shot_Precision_00" xml:space="preserve"><value>Splash-o-matic</value></data>
+  <data name="PLO006" xml:space="preserve"><value>Cycle King Jersey</value></data>
+  <data name="PLO007" xml:space="preserve"><value>Slipstream United</value></data>
+  <data name="PLO004" xml:space="preserve"><value>Black Polo</value></data>
+  <data name="PLO005" xml:space="preserve"><value>Cycling Shirt</value></data>
+  <data name="PLO002" xml:space="preserve"><value>Tricolor Rugby</value></data>
+  <data name="PLO003" xml:space="preserve"><value>Sage Polo</value></data>
+  <data name="PLO000" xml:space="preserve"><value>Shrimp-Pink Polo</value></data>
+  <data name="PLO001" xml:space="preserve"><value>Striped Rugby</value></data>
+  <data name="PLO008" xml:space="preserve"><value>FC Albacore</value></data>
+  <data name="Shield" xml:space="preserve"><value>Splash Wall</value></data>
+  <data name="SWT005" xml:space="preserve"><value>Reel Sweat</value></data>
+  <data name="SWT004" xml:space="preserve"><value>Navy College Sweat</value></data>
+  <data name="SWT007" xml:space="preserve"><value>スウェット007</value></data>
+  <data name="SWT006" xml:space="preserve"><value>Anchor Sweat</value></data>
+  <data name="SWT001" xml:space="preserve"><value>Squidmark Sweat</value></data>
+  <data name="SWT000" xml:space="preserve"><value>Gray College Sweat</value></data>
+  <data name="SWT003" xml:space="preserve"><value>Firefin Navy Sweat</value></data>
+  <data name="SWT002" xml:space="preserve"><value>Retro Sweat</value></data>
+  <data name="SDL002" xml:space="preserve"><value>Traditional Sandals</value></data>
+  <data name="SDL000" xml:space="preserve"><value>Oyster Clogs</value></data>
+  <data name="SDL001" xml:space="preserve"><value>Choco Clogs</value></data>
+  <data name="SLP002" xml:space="preserve"><value>Squid-Stitch Slip-Ons</value></data>
+  <data name="SLP003" xml:space="preserve"><value>スリッポン003</value></data>
+  <data name="SLP000" xml:space="preserve"><value>Blue Slip-Ons</value></data>
+  <data name="SLP001" xml:space="preserve"><value>Red Slip-Ons</value></data>
+  <data name="SLP004" xml:space="preserve"><value>スリッポン004</value></data>
+  <data name="SLO010" xml:space="preserve"><value>Soccer Cleats</value></data>
+  <data name="SLO011" xml:space="preserve"><value>LE Soccer Cleats</value></data>
+  <data name="SLO012" xml:space="preserve"><value>ローカットスニーカー012</value></data>
+  <data name="SLO005" xml:space="preserve"><value>Black Seahorses</value></data>
+  <data name="SLO004" xml:space="preserve"><value>Orange Lo-Tops</value></data>
+  <data name="SLO007" xml:space="preserve"><value>Yellow Seahorses</value></data>
+  <data name="SLO006" xml:space="preserve"><value>Clownfish Basics</value></data>
+  <data name="SLO001" xml:space="preserve"><value>Banana Basics</value></data>
+  <data name="SLO000" xml:space="preserve"><value>Blue Lo-Tops</value></data>
+  <data name="SLO003" xml:space="preserve"><value>White Seahorses</value></data>
+  <data name="SLO002" xml:space="preserve"><value>LE Lo-Tops</value></data>
+  <data name="SLO009" xml:space="preserve"><value>Strapping Reds</value></data>
+  <data name="SLO008" xml:space="preserve"><value>Strapping Whites</value></data>
+  <data name="SHT008" xml:space="preserve"><value>Baseball Jersey</value></data>
+  <data name="SHT009" xml:space="preserve"><value>Gray Mixed Shirt</value></data>
+  <data name="SHT002" xml:space="preserve"><value>Green-Check Shirt</value></data>
+  <data name="SHT003" xml:space="preserve"><value>White Shirt</value></data>
+  <data name="SHT000" xml:space="preserve"><value>Lumberjack Shirt</value></data>
+  <data name="SHT001" xml:space="preserve"><value>Rodeo Shirt</value></data>
+  <data name="SHT006" xml:space="preserve"><value>Red-Check Shirt</value></data>
+  <data name="SHT007" xml:space="preserve"><value>Baby-Jelly Shirt</value></data>
+  <data name="SHT004" xml:space="preserve"><value>Urchins Jersey</value></data>
+  <data name="SHT005" xml:space="preserve"><value>Aloha Shirt</value></data>
+  <data name="SHT013" xml:space="preserve"><value>Striped Shirt</value></data>
+  <data name="SHT012" xml:space="preserve"><value>Logo Aloha Shirt</value></data>
+  <data name="SHT011" xml:space="preserve"><value>Round-Collar Shirt</value></data>
+  <data name="SHT010" xml:space="preserve"><value>Vintage Check Shirt</value></data>
+  <data name="SHT016" xml:space="preserve"><value>Traditional Apron</value></data>
+  <data name="SHT015" xml:space="preserve"><value>Shirt &amp; Tie</value></data>
+  <data name="SHT014" xml:space="preserve"><value>Linen Shirt</value></data>
+  <data name="SHI010" xml:space="preserve"><value>ハイカットスニーカーSHI010</value></data>
+  <data name="SHI011" xml:space="preserve"><value>ハイカットスニーカーSHI011</value></data>
+  <data name="SHI007" xml:space="preserve"><value>SQUID GIRL Shoes</value></data>
+  <data name="SHI006" xml:space="preserve"><value>Gold Hi-Horses</value></data>
+  <data name="SHI005" xml:space="preserve"><value>Red Hi-Tops</value></data>
+  <data name="SHI004" xml:space="preserve"><value>Hunter Hi-Tops</value></data>
+  <data name="SHI003" xml:space="preserve"><value>Purple Hi-Horses</value></data>
+  <data name="SHI002" xml:space="preserve"><value>Cream Hi-Tops</value></data>
+  <data name="SHI001" xml:space="preserve"><value>Zombie Hi-Horses</value></data>
+  <data name="SHI000" xml:space="preserve"><value>Red Hi-Horses</value></data>
+  <data name="SHI009" xml:space="preserve"><value>Mawcasins</value></data>
+  <data name="SHI008" xml:space="preserve"><value>Shark Moccasins</value></data>
+  <data name="Gatling_Hyper_01" xml:space="preserve"><value>Custom Hydra Splatling</value></data>
+  <data name="Gatling_Hyper_00" xml:space="preserve"><value>Hydra Splatling</value></data>
+  <data name="MarkingCancel" xml:space="preserve"><value>Cold Blooded</value></data>
+  <data name="Unknown" xml:space="preserve"><value /></data>
+  <data name="Shot_ExplosionLong_02" xml:space="preserve"><value>Grim Range Blaster</value></data>
+  <data name="Shot_ExplosionLong_00" xml:space="preserve"><value>Range Blaster</value></data>
+  <data name="Shot_ExplosionLong_01" xml:space="preserve"><value>Custom Range Blaster</value></data>
+  <data name="MinorityUp" xml:space="preserve"><value>Tenacity</value></data>
+  <data name="BigBall_Diffusion_01" xml:space="preserve"><value>Tri-Slosher Nouveau</value></data>
+  <data name="BigBall_Diffusion_00" xml:space="preserve"><value>Tri-Slosher</value></data>
+  <data name="RvlSeaPlant00" xml:space="preserve"><value>Octoling Onslaught</value></data>
+  <data name="BossStampKing_Bos" xml:space="preserve"><value>The Mighty Octostomp!</value></data>
+  <data name="RvlSkatePark00" xml:space="preserve"><value>Octoling Assault</value></data>
+  <data name="BossCylinderKing_Bos" xml:space="preserve"><value>The Dreaded Octonozzle!</value></data>
+  <data name="BigBall_Launcher_00" xml:space="preserve"><value>Sloshing Machine</value></data>
+  <data name="BigBall_Launcher_01" xml:space="preserve"><value>Sloshing Machine Neo</value></data>
+  <data name="Sprinkler" xml:space="preserve"><value>Sprinkler</value></data>
+  <data name="Charge_Long_01" xml:space="preserve"><value>Custom E-liter 3K</value></data>
+  <data name="Charge_Long_00" xml:space="preserve"><value>E-liter 3K</value></data>
+  <data name="RVL0001" xml:space="preserve"><value>Octoling Goggles</value></data>
+  <data name="RVL0002" xml:space="preserve"><value>Octoling Boots</value></data>
+  <data name="Charge_LongScope_01" xml:space="preserve"><value>Custom E-liter 3K Scope</value></data>
+  <data name="Charge_LongScope_00" xml:space="preserve"><value>E-liter 3K Scope</value></data>
+  <data name="RespawnTime_Save" xml:space="preserve"><value>Quick Respawn</value></data>
+  <data name="Gatling_Quick_02" xml:space="preserve"><value>Refurbished Mini Splatling</value></data>
+  <data name="Gatling_Quick_00" xml:space="preserve"><value>Mini Splatling</value></data>
+  <data name="Gatling_Quick_01" xml:space="preserve"><value>Zink Mini Splatling </value></data>
+  <data name="Tuzura00" xml:space="preserve"><value>Moray Towers</value></data>
+  <data name="OctCrank00" xml:space="preserve"><value>Unwelcome Flying Object</value></data>
+  <data name="Gatling_Standard_00" xml:space="preserve"><value>Heavy Splatling</value></data>
+  <data name="Gatling_Standard_01" xml:space="preserve"><value>Heavy Splatling Deco</value></data>
+  <data name="Gatling_Standard_02" xml:space="preserve"><value>Heavy Splatling Remix</value></data>
+  <data name="EndAllUp" xml:space="preserve"><value>Last-Ditch Effort</value></data>
+  <data name="Shot_QuickMiddle_01" xml:space="preserve"><value>N-ZAP '89</value></data>
+  <data name="Shot_QuickMiddle_00" xml:space="preserve"><value>N-ZAP '85</value></data>
+  <data name="Shot_QuickMiddle_02" xml:space="preserve"><value>N-ZAP '83</value></data>
+  <data name="Trance00" xml:space="preserve"><value>Splat-Switch Revolution</value></data>
+  <data name="Crank00" xml:space="preserve"><value>Urchin Underpass</value></data>
+  <data name="Shot_Short_02" xml:space="preserve"><value>Sploosh-o-matic 7</value></data>
+  <data name="Shot_Short_01" xml:space="preserve"><value>Neo Sploosh-o-matic</value></data>
+  <data name="Shot_Short_00" xml:space="preserve"><value>Sploosh-o-matic</value></data>
+  <data name="Sponge01" xml:space="preserve"><value>Spongy Observatory</value></data>
+  <data name="Sponge00" xml:space="preserve"><value>Floating Sponge Garden</value></data>
+  <data name="Pivot00" xml:space="preserve"><value>Museum d'Alfonsino</value></data>
+  <data name="Charge_Quick_02" xml:space="preserve"><value>Fresh Squiffer</value></data>
+  <data name="Charge_Quick_00" xml:space="preserve"><value>Classic Squiffer</value></data>
+  <data name="Charge_Quick_01" xml:space="preserve"><value>New Squiffer</value></data>
+  <data name="Invisible00" xml:space="preserve"><value>Inkvisible Avenues</value></data>
+  <data name="SuperJumpSign_Hide" xml:space="preserve"><value>Stealth Jump</value></data>
+  <data name="Charge_Normal_H" xml:space="preserve"><value>Hero Charger Replica</value></data>
+  <data name="Shot_TripleQuick_00" xml:space="preserve"><value>L-3 Nozzlenose</value></data>
+  <data name="Shot_TripleQuick_01" xml:space="preserve"><value>L-3 Nozzlenose D</value></data>
+  <data name="Kaisou00" xml:space="preserve"><value>Hammerhead Bridge</value></data>
+  <data name="EnemyInkEffect_Reduction" xml:space="preserve"><value>Ink Resistance Up</value></data>
+  <data name="SquidMoveSpatter_Reduction" xml:space="preserve"><value>Ninja Squid</value></data>
+  <data name="SHT0091" xml:space="preserve"><value>Black Trainers</value></data>
+  <data name="SHT0081" xml:space="preserve"><value>Crazy Arrows</value></data>
+  <data name="SHT0031" xml:space="preserve"><value>White Arrows</value></data>
+  <data name="SHT0021" xml:space="preserve"><value>Neon Sea Slugs</value></data>
+  <data name="SHT0011" xml:space="preserve"><value>Orange Arrows</value></data>
+  <data name="SHT0001" xml:space="preserve"><value>Pink Trainers</value></data>
+  <data name="SHT0071" xml:space="preserve"><value>Purple Sea Slugs</value></data>
+  <data name="SHT0061" xml:space="preserve"><value>Red Sea Slugs</value></data>
+  <data name="SHT0051" xml:space="preserve"><value>Blue Sea Slugs</value></data>
+  <data name="SHT0041" xml:space="preserve"><value>Cyan Trainers</value></data>
+  <data name="B14" xml:space="preserve"><value>Famitsu</value></data>
+  <data name="B12" xml:space="preserve"><value>KOG</value></data>
+  <data name="B13" xml:space="preserve"><value>The SQUID GIRL</value></data>
+  <data name="B10" xml:space="preserve"><value>Tentatek</value></data>
+  <data name="B11" xml:space="preserve"><value>Takoroka</value></data>
+  <data name="B07" xml:space="preserve"><value>Skalop</value></data>
+  <data name="B06" xml:space="preserve"><value>Firefin</value></data>
+  <data name="B05" xml:space="preserve"><value>Forge</value></data>
+  <data name="B04" xml:space="preserve"><value>Zekko</value></data>
+  <data name="B03" xml:space="preserve"><value>Rockenberg</value></data>
+  <data name="B02" xml:space="preserve"><value>Krak-On</value></data>
+  <data name="B01" xml:space="preserve"><value>Zink</value></data>
+  <data name="B00" xml:space="preserve"><value>SquidForce</value></data>
+  <data name="B09" xml:space="preserve"><value>Inkline</value></data>
+  <data name="B08" xml:space="preserve"><value>Splash Mob</value></data>
+  <data name="B98" xml:space="preserve"><value>Cuttlegear</value></data>
+  <data name="B99" xml:space="preserve"><value>amiibo</value></data>
+  <data name="Office00" xml:space="preserve"><value>Ancho-V Games</value></data>
+  <data name="First" xml:space="preserve"><value>Basic Tee</value></data>
+  <data name="TimerTrap" xml:space="preserve"><value>Ink Mine</value></data>
+  <data name="Blank" xml:space="preserve"><value /></data>
+  <data name="None1" xml:space="preserve"><value>なし</value></data>
+  <data name="NoHed" xml:space="preserve"><value>ARINOMAMA</value></data>
+  <data name="Dozer01" xml:space="preserve"><value>Far-Flung Flooders</value></data>
+  <data name="Dozer00" xml:space="preserve"><value>Flooder Junkyard</value></data>
+  <data name="OctRuins00" xml:space="preserve"><value>Undeniable Flying Object</value></data>
+  <data name="Quarry00" xml:space="preserve"><value>Piranha Pit</value></data>
+  <data name="Shot_Blaze_01" xml:space="preserve"><value>Aerospray RG</value></data>
+  <data name="Shot_Blaze_00" xml:space="preserve"><value>Aerospray MG</value></data>
+  <data name="Shot_Blaze_02" xml:space="preserve"><value>Aerospray PG</value></data>
+  <data name="ComeBack" xml:space="preserve"><value>Comeback</value></data>
+  <data name="Shot_QuickLong_00" xml:space="preserve"><value>Dual Squelcher</value></data>
+  <data name="Shot_QuickLong_01" xml:space="preserve"><value>Custom Dual Squelcher</value></data>
+  <data name="HumanMove_Up" xml:space="preserve"><value>Run Speed Up</value></data>
+  <data name="Roller_BrushMini_02" xml:space="preserve"><value>Permanent Inkbrush</value></data>
+  <data name="Roller_BrushMini_00" xml:space="preserve"><value>Inkbrush</value></data>
+  <data name="Roller_BrushMini_01" xml:space="preserve"><value>Inkbrush Nouveau</value></data>
+  <data name="SkatePark00" xml:space="preserve"><value>Blackbelly Skatepark</value></data>
+  <data name="Amida00" xml:space="preserve"><value>Port Mackerel</value></data>
+  <data name="Shot_Heavy_00" xml:space="preserve"><value>.96 Gal</value></data>
+  <data name="Shot_Heavy_01" xml:space="preserve"><value>.96 Gal Deco</value></data>
+  <data name="RespawnRadar" xml:space="preserve"><value>Recon</value></data>
+  <data name="BossMouthKing_Bos" xml:space="preserve"><value>The Ravenous Octomaw!</value></data>
+  <data name="Ruins00" xml:space="preserve"><value>Bluefin Depot</value></data>
+  <data name="Shot_Normal_H" xml:space="preserve"><value>Hero Shot Replica</value></data>
+  <data name="Shot_ExplosionShort_00" xml:space="preserve"><value>Luna Blaster</value></data>
+  <data name="Shot_ExplosionShort_01" xml:space="preserve"><value>Luna Blaster Neo</value></data>
+  <data name="BossRailKing_Bos" xml:space="preserve"><value>Enter the Octobot King!</value></data>
+  <data name="EasyHide00" xml:space="preserve"><value>Octotrooper Hideout</value></data>
+  <data name="Bomb_Msn0Lv2" xml:space="preserve"><value>ミッションボムA Lv.2</value></data>
+  <data name="Bomb_Msn0Lv3" xml:space="preserve"><value>ミッションボムA Lv.3</value></data>
+  <data name="Bomb_Msn0Lv0" xml:space="preserve"><value>ミッションボムA Lv.0</value></data>
+  <data name="Bomb_Msn0Lv1" xml:space="preserve"><value>ミッションボムA Lv.1</value></data>
+  <data name="Bomb_Msn1Lv3" xml:space="preserve"><value>ミッションボムB Lv.3</value></data>
+  <data name="Bomb_Msn1Lv2" xml:space="preserve"><value>ミッションボムB Lv.2</value></data>
+  <data name="Bomb_Msn1Lv1" xml:space="preserve"><value>ミッションボムB Lv.1</value></data>
+  <data name="Bomb_Msn1Lv0" xml:space="preserve"><value>ミッションボムB Lv.0</value></data>
+  <data name="Bomb_Hold" xml:space="preserve"><value>Suction Bomb</value></data>
+  <data name="Shot_First_01" xml:space="preserve"><value>Custom Splattershot Jr.</value></data>
+  <data name="Shot_First_00" xml:space="preserve"><value>Splattershot Jr.</value></data>
+  <data name="Bomb_Throw" xml:space="preserve"><value>Splat Bomb</value></data>
+  <data name="Bomb_Handy" xml:space="preserve"><value>Burst Bomb</value></data>
+  <data name="Bomb_Chase" xml:space="preserve"><value>Seeker</value></data>
+  <data name="EasyJump00" xml:space="preserve"><value>Rise of the Octocopters</value></data>
+  <data name="MarkingBall" xml:space="preserve"><value>Point Sensor</value></data>
+  <data name="EasyClimb00" xml:space="preserve"><value>Lair of the Octoballs</value></data>
+  <data name="Roller_Heavy_00" xml:space="preserve"><value>Dynamo Roller</value></data>
+  <data name="Roller_Heavy_01" xml:space="preserve"><value>Gold Dynamo Roller</value></data>
+  <data name="Roller_Heavy_02" xml:space="preserve"><value>Tempered Dynamo Roller</value></data>
+  <data name="PaintingLift00" xml:space="preserve"><value>Spreader Splatfest</value></data>
+  <data name="PaintingLift01" xml:space="preserve"><value>Spinning Spreaders</value></data>
+  <data name="SubInk_Save" xml:space="preserve"><value>Ink Saver (Sub)</value></data>
+  <data name="Shot_ExplosionLight_00" xml:space="preserve"><value>Rapid Blaster</value></data>
+  <data name="Shot_ExplosionLight_01" xml:space="preserve"><value>Rapid Blaster Deco</value></data>
+  <data name="BombDistance_Up" xml:space="preserve"><value>Bomb Range Up</value></data>
+  <data name="BossBallKing_Bos" xml:space="preserve"><value>The Rampaging Octowhirl!</value></data>
+  <data name="Shot_TripleMiddle_02" xml:space="preserve"><value>Cherry H-3 Nozzlenose</value></data>
+  <data name="Shot_TripleMiddle_00" xml:space="preserve"><value>H-3 Nozzlenose</value></data>
+  <data name="Shot_TripleMiddle_01" xml:space="preserve"><value>H-3 Nozzlenose D</value></data>
+  <data name="Charge00" xml:space="preserve"><value>Octosniper Ramparts</value></data>
+  <data name="JumpTime_Save" xml:space="preserve"><value>Quick Super Jump</value></data>
+  <data name="Warehouse00" xml:space="preserve"><value>Walleye Warehouse</value></data>
+  <data name="AMB0021" xml:space="preserve"><value>Power Mask</value></data>
+  <data name="AMB0022" xml:space="preserve"><value>Power Boots</value></data>
+  <data name="AMB0002" xml:space="preserve"><value>School Shoes</value></data>
+  <data name="AMB0001" xml:space="preserve"><value>Squid Hairclip</value></data>
+  <data name="AMB0012" xml:space="preserve"><value>Samurai Shoes</value></data>
+  <data name="AMB0011" xml:space="preserve"><value>Samurai Helmet</value></data>
+  <data name="SlideLift00" xml:space="preserve"><value>Shifting Splatforms</value></data>
+  <data name="Charge_Normal_00" xml:space="preserve"><value>Splat Charger</value></data>
+  <data name="Charge_Normal_01" xml:space="preserve"><value>Kelp Splat Charger</value></data>
+  <data name="Charge_Normal_02" xml:space="preserve"><value>Bento Splat Charger</value></data>
+  <data name="Geyser00" xml:space="preserve"><value>Gusher Gauntlet</value></data>
+  <data name="SpecialTime_Up" xml:space="preserve"><value>Special Duration Up</value></data>
+  <data name="InkRail00" xml:space="preserve"><value>Inkrail Skyscape</value></data>
+  <data name="OctZero00" xml:space="preserve"><value>Unidentified Flying Object</value></data>
+  <data name="Roller_BrushNormal_00" xml:space="preserve"><value>Octobrush</value></data>
+  <data name="Roller_BrushNormal_01" xml:space="preserve"><value>Octobrush Nouveau</value></data>
+  <data name="cVar" xml:space="preserve"><value>Splat Zones</value></data>
+  <data name="cVgl" xml:space="preserve"><value>Rainmaker</value></data>
+  <data name="cVlf" xml:space="preserve"><value>Tower Control</value></data>
+  <data name="cPnt" xml:space="preserve"><value>Turf War</value></data>
+  <data name="Flag" xml:space="preserve"><value>Squid Beakon</value></data>
+  <data name="None" xml:space="preserve"><value>なし</value></data>
+  <data name="RespawnSpecialGauge_Save" xml:space="preserve"><value>Special Saver</value></data>
+  <data name="Attack_Up" xml:space="preserve"><value>Damage Up</value></data>
+  </root>

@@ -1,0 +1,111 @@
+using System.Collections.Generic;
+
+namespace SplatHex;
+internal static class Class46 {
+    public static Dictionary<int, Class119> Lou;
+    static Class46() {
+        Lou = new Dictionary<int, Class119>();
+        Class119[] array = new Class119[91]
+        {
+            new Class119(1000, 12, Class67.l8t.GetString("Shot_Short_00"), Resources.Wst_Shot_Short00, 7, 1),
+            new Class119(1001, 18, Class67.l8t.GetString("Shot_Short_01"), Resources.Wst_Shot_Short01, 4, 5),
+            new Class119(1002, 20, Class67.l8t.GetString("Shot_Short_02"), Resources.Wst_Shot_Short02, 0, 0),
+            new Class119(1010, 1, Class67.l8t.GetString("Shot_First_00"), Resources.Wst_Shot_First00, 0, 3),
+            new Class119(1011, 2, Class67.l8t.GetString("Shot_First_01"), Resources.Wst_Shot_First01, 9, 6),
+            new Class119(1020, 7, Class67.l8t.GetString("Shot_Precision_00"), Resources.Wst_Shot_Precision00, 1, 4),
+            new Class119(1021, 9, Class67.l8t.GetString("Shot_Precision_01"), Resources.Wst_Shot_Precision01, 2, 0),
+            new Class119(1030, 7, Class67.l8t.GetString("Shot_Blaze_00"), Resources.Wst_Shot_Blaze00, 3, 0),
+            new Class119(1031, 13, Class67.l8t.GetString("Shot_Blaze_01"), Resources.Wst_Shot_Blaze01, 5, 2),
+            new Class119(1032, 20, Class67.l8t.GetString("Shot_Blaze_02"), Resources.Wst_Shot_Blaze02, 2, 5),
+            new Class119(1040, 2, Class67.l8t.GetString("Shot_Normal_00"), Resources.Wst_Shot_Normal00, 2, 4),
+            new Class119(1041, 4, Class67.l8t.GetString("Shot_Normal_01"), Resources.Wst_Shot_Normal01, 1, 0),
+            new Class119(1042, 20, Class67.l8t.GetString("Shot_Normal_02"), Resources.Wst_Shot_Normal02, 0, 2),
+            new Class119(1045, 3, Class67.l8t.GetString("Shot_Normal_H"), Resources.Wst_Shot_NormalH, 2, 4),
+            new Class119(1046, 40, Class67.l8t.GetString("Shot_Normal_Oct"), Resources.Wst_Shot_NormalOct, 1, 0),
+            new Class119(1050, 5, Class67.l8t.GetString("Shot_Gravity_00"), Resources.Wst_Shot_Gravity00, 8, 1),
+            new Class119(1051, 11, Class67.l8t.GetString("Shot_Gravity_01"), Resources.Wst_Shot_Gravity01, 3, 2),
+            new Class119(1060, 5, Class67.l8t.GetString("Shot_QuickMiddle_00"), Resources.Wst_Shot_QuickMiddle00, 0, 6),
+            new Class119(1061, 8, Class67.l8t.GetString("Shot_QuickMiddle_01"), Resources.Wst_Shot_QuickMiddle01, 6, 2),
+            new Class119(1062, 20, Class67.l8t.GetString("Shot_QuickMiddle_02"), Resources.Wst_Shot_QuickMiddle02, 4, 5),
+            new Class119(1070, 10, Class67.l8t.GetString("Shot_Expert_00"), Resources.Wst_Shot_Expert00, 0, 2),
+            new Class119(1071, 20, Class67.l8t.GetString("Shot_Expert_01"), Resources.Wst_Shot_Expert01, 4, 0),
+            new Class119(1072, 20, Class67.l8t.GetString("Shot_Expert_02"), Resources.Wst_Shot_Expert02, 1, 4),
+            new Class119(1080, 12, Class67.l8t.GetString("Shot_Heavy_00"), Resources.Wst_Shot_Heavy00, 6, 6),
+            new Class119(1081, 14, Class67.l8t.GetString("Shot_Heavy_01"), Resources.Wst_Shot_Heavy01, 8, 5),
+            new Class119(1090, 16, Class67.l8t.GetString("Shot_QuickLong_00"), Resources.Wst_Shot_QuickLong00, 0, 6),
+            new Class119(1091, 18, Class67.l8t.GetString("Shot_QuickLong_01"), Resources.Wst_Shot_QuickLong01, 7, 1),
+            new Class119(1100, 8, Class67.l8t.GetString("Shot_Long_00"), Resources.Wst_Shot_Long00, 8, 2),
+            new Class119(1101, 15, Class67.l8t.GetString("Shot_Long_01"), Resources.Wst_Shot_Long01, 2, 5),
+            new Class119(1110, 11, Class67.l8t.GetString("Shot_ExplosionShort_00"), Resources.Wst_Shot_ExpShort00, 5, 0),
+            new Class119(1111, 15, Class67.l8t.GetString("Shot_ExplosionShort_01"), Resources.Wst_Shot_ExpShort01, 0, 4),
+            new Class119(1120, 9, Class67.l8t.GetString("Shot_ExplosionMiddle_00"), Resources.Wst_Shot_ExpMiddle00, 9, 1),
+            new Class119(1121, 17, Class67.l8t.GetString("Shot_ExplosionMiddle_01"), Resources.Wst_Shot_ExpMiddle01, 4, 3),
+            new Class119(1130, 14, Class67.l8t.GetString("Shot_ExplosionLong_00"), Resources.Wst_Shot_ExpLong00, 8, 2),
+            new Class119(1131, 17, Class67.l8t.GetString("Shot_ExplosionLong_01"), Resources.Wst_Shot_ExpLong01, 0, 5),
+            new Class119(1132, 20, Class67.l8t.GetString("Shot_ExplosionLong_02"), Resources.Wst_Shot_ExpLong02, 2, 1),
+            new Class119(1140, 14, Class67.l8t.GetString("Shot_ExplosionLight_00"), Resources.Wst_Shot_ExpLight00, 5, 3),
+            new Class119(1141, 19, Class67.l8t.GetString("Shot_ExplosionLight_01"), Resources.Wst_Shot_ExpLight01, 1, 4),
+            new Class119(1150, 16, Class67.l8t.GetString("Shot_ExplosionLightLong_00"), Resources.Wst_Shot_ExpLightLong00, 3, 0),
+            new Class119(1151, 20, Class67.l8t.GetString("Shot_ExplosionLightLong_01"), Resources.Wst_Shot_ExpLightLong01, 9, 1),
+            new Class119(1160, 9, Class67.l8t.GetString("Shot_TripleQuick_00"), Resources.Wst_Shot_TripleQuick00, 9, 1),
+            new Class119(1161, 13, Class67.l8t.GetString("Shot_TripleQuick_01"), Resources.Wst_Shot_TripleQuick01, 2, 5),
+            new Class119(1170, 10, Class67.l8t.GetString("Shot_TripleMiddle_00"), Resources.Wst_Shot_TripleMiddle00, 1, 6),
+            new Class119(1171, 14, Class67.l8t.GetString("Shot_TripleMiddle_01"), Resources.Wst_Shot_TripleMiddle01, 4, 0),
+            new Class119(1172, 20, Class67.l8t.GetString("Shot_TripleMiddle_02"), Resources.Wst_Shot_TripleMiddle02, 8, 3),
+            new Class119(2000, 10, Class67.l8t.GetString("Roller_Compact_00"), Resources.Wst_Roller_Compact00, 2, 0),
+            new Class119(2001, 13, Class67.l8t.GetString("Roller_Compact_01"), Resources.Wst_Roller_Compact01, 3, 4),
+            new Class119(2010, 3, Class67.l8t.GetString("Roller_Normal_00"), Resources.Wst_Roller_Normal00, 1, 1),
+            new Class119(2011, 7, Class67.l8t.GetString("Roller_Normal_01"), Resources.Wst_Roller_Normal01, 7, 5),
+            new Class119(2012, 20, Class67.l8t.GetString("Roller_Normal_02"), Resources.Wst_Roller_Normal02, 8, 0),
+            new Class119(2015, 3, Class67.l8t.GetString("Roller_Normal_H"), Resources.Wst_Roller_NormalH, 1, 1),
+            new Class119(2020, 15, Class67.l8t.GetString("Roller_Heavy_00"), Resources.Wst_Roller_Heavy00, 6, 6),
+            new Class119(2021, 20, Class67.l8t.GetString("Roller_Heavy_01"), Resources.Wst_Roller_Heavy01, 0, 2),
+            new Class119(2022, 20, Class67.l8t.GetString("Roller_Heavy_02"), Resources.Wst_Roller_Heavy02, 3, 1),
+            new Class119(2030, 8, Class67.l8t.GetString("Roller_BrushMini_00"), Resources.Wst_Roller_BrushMini00, 6, 2),
+            new Class119(2031, 11, Class67.l8t.GetString("Roller_BrushMini_01"), Resources.Wst_Roller_BrushMini01, 5, 3),
+            new Class119(2032, 20, Class67.l8t.GetString("Roller_BrushMini_02"), Resources.Wst_Roller_BrushMini02, 0, 5),
+            new Class119(2040, 12, Class67.l8t.GetString("Roller_BrushNormal_00"), Resources.Wst_Roller_BrushNormal00, 7, 5),
+            new Class119(2041, 16, Class67.l8t.GetString("Roller_BrushNormal_01"), Resources.Wst_Roller_BrushNormal01, 0, 0),
+            new Class119(3000, 5, Class67.l8t.GetString("BigBall_Strong_00"), Resources.Wst_BigBall_Strong00, 2, 2),
+            new Class119(3001, 10, Class67.l8t.GetString("BigBall_Strong_01"), Resources.Wst_BigBall_Strong01, 8, 5),
+            new Class119(3002, 20, Class67.l8t.GetString("BigBall_Strong_02"), Resources.Wst_BigBall_Strong02, 0, 0),
+            new Class119(3010, 9, Class67.l8t.GetString("BigBall_Diffusion_00"), Resources.Wst_BigBall_Diffusion00, 9, 3),
+            new Class119(3011, 15, Class67.l8t.GetString("BigBall_Diffusion_01"), Resources.Wst_BigBall_Diffusion01, 3, 6),
+            new Class119(3020, 12, Class67.l8t.GetString("BigBall_Launcher_00"), Resources.Wst_BigBall_Launcher00, 0, 4),
+            new Class119(3021, 18, Class67.l8t.GetString("BigBall_Launcher_01"), Resources.Wst_BigBall_Launcher01, 4, 0),
+            new Class119(4000, 6, Class67.l8t.GetString("Charge_Quick_00"), Resources.Wst_Charge_Quick00, 4, 3),
+            new Class119(4001, 11, Class67.l8t.GetString("Charge_Quick_01"), Resources.Wst_Charge_Quick01, 5, 0),
+            new Class119(4002, 20, Class67.l8t.GetString("Charge_Quick_02"), Resources.Wst_Charge_Quick02, 1, 5),
+            new Class119(4010, 3, Class67.l8t.GetString("Charge_Normal_00"), Resources.Wst_Charge_Normal00, 0, 4),
+            new Class119(4011, 4, Class67.l8t.GetString("Charge_Normal_01"), Resources.Wst_Charge_Normal01, 6, 1),
+            new Class119(4012, 20, Class67.l8t.GetString("Charge_Normal_02"), Resources.Wst_Charge_Normal02, 8, 6),
+            new Class119(4015, 3, Class67.l8t.GetString("Charge_Normal_H"), Resources.Wst_Charge_NormalH, 0, 4),
+            new Class119(4020, 13, Class67.l8t.GetString("Charge_NormalScope_00"), Resources.Wst_Charge_NormalScp00, 0, 4),
+            new Class119(4021, 17, Class67.l8t.GetString("Charge_NormalScope_01"), Resources.Wst_Charge_NormalScp01, 6, 1),
+            new Class119(4022, 20, Class67.l8t.GetString("Charge_NormalScope_02"), Resources.Wst_Charge_NormalScp02, 8, 6),
+            new Class119(4030, 18, Class67.l8t.GetString("Charge_Long_00"), Resources.Wst_Charge_Long00, 2, 6),
+            new Class119(4031, 19, Class67.l8t.GetString("Charge_Long_01"), Resources.Wst_Charge_Long01, 7, 5),
+            new Class119(4040, 19, Class67.l8t.GetString("Charge_LongScope_00"), Resources.Wst_Charge_LongScp00, 2, 6),
+            new Class119(4041, 20, Class67.l8t.GetString("Charge_LongScope_01"), Resources.Wst_Charge_LongScp01, 7, 5),
+            new Class119(4050, 15, Class67.l8t.GetString("Charge_Light_00"), Resources.Wst_Charge_Light00, 8, 1),
+            new Class119(4051, 17, Class67.l8t.GetString("Charge_Light_01"), Resources.Wst_Charge_Light01, 9, 6),
+            new Class119(4052, 20, Class67.l8t.GetString("Charge_Light_02"), Resources.Wst_Charge_Light02, 2, 2),
+            new Class119(5000, 8, Class67.l8t.GetString("Gatling_Quick_00"), Resources.Wst_Gatling_Quick00, 1, 0),
+            new Class119(5001, 13, Class67.l8t.GetString("Gatling_Quick_01"), Resources.Wst_Gatling_Quick01, 9, 3),
+            new Class119(5002, 20, Class67.l8t.GetString("Gatling_Quick_02"), Resources.Wst_Gatling_Quick02, 2, 4),
+            new Class119(5010, 6, Class67.l8t.GetString("Gatling_Standard_00"), Resources.Wst_Gatling_Standard00, 8, 2),
+            new Class119(5011, 9, Class67.l8t.GetString("Gatling_Standard_01"), Resources.Wst_Gatling_Standard01, 4, 5),
+            new Class119(5012, 20, Class67.l8t.GetString("Gatling_Standard_02"), Resources.Wst_Gatling_Standard02, 6, 1),
+            new Class119(5020, 11, Class67.l8t.GetString("Gatling_Hyper_00"), Resources.Wst_Gatling_Hyper00, 0, 6),
+            new Class119(5021, 20, Class67.l8t.GetString("Gatling_Hyper_01"), Resources.Wst_Gatling_Hyper01, 6, 3)
+        };
+        Class119[] array2 = array;
+        foreach (Class119 aS in array2) {
+            Lou.Add(aS.UDZ, aS);
+        }
+    }
+
+    internal static bool BNt() {
+        return true;
+    }
+}
